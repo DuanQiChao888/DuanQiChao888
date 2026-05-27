@@ -5,8 +5,8 @@ I have been pre-admitted to the **University of Science and Technology of China 
 Please check my website for more details.
 
 ## 💼 Experiences
-- **[2022–2026] 🎓** B.S. candidate in **Information and Computational Science**, College of Informatics, **Huazhong Agricultural University (HZAU 211)**. 
-- **[2026–now] 🎓** **University of Science and Technology of China (USTC 985)**
+- **[2022–2026] 🎓** B.S.degree candidate in **Information and Computational Science**, College of Informatics, **Huazhong Agricultural University (HZAU 211)**. 
+- **[2026–now] 🎓** be pursuing M.S degree in **Electronic Information**， **University of Science and Technology of China (USTC 985)**
 
 ## 🏅 Selected Honors
 - 🌟 **Outstanding Graduate of Huazhong Agricultural University**  
