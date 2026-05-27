@@ -2,7 +2,7 @@
 
 I'm ✨ **Qichao Duan** ✨, an undergraduate student in **Information and Computational Science** at **Huazhong Agricultural University (HZAU)**. 
 I have been pre-admitted to the **University of Science and Technology of China (USTC)** for further study in **Electronic Information**.    
-Please check my website for more details.
+Please check my website for more details.https://duanqichao888.github.io/qcduan.github.io/
 ## 💼 Experiences
 - **[2022–2026] 🎓** B.S.degree candidate in **Information and Computational Science**, College of Informatics, **Huazhong Agricultural University (HZAU 211)**. 
 - **[2026–now] 🎓** be pursuing M.S degree in **Electronic Information**， **University of Science and Technology of China (USTC 985)**
