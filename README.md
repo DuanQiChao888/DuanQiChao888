@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm ✨ **Qichao Duan / 段启超** ✨, an undergraduate student in **Information and Computational Science** at **Huazhong Agricultural University (HZAU)**. 
+I'm ✨ **Qichao Duan /** ✨, an undergraduate student in **Information and Computational Science** at **Huazhong Agricultural University (HZAU)**. 
 I have been pre-admitted to the **University of Science and Technology of China (USTC)** for further study in **Electronic Information**.
 Please check my website for more details.
 
