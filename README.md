@@ -8,6 +8,7 @@ Please check my website for more details.https://duanqichao888.github.io/qcduan.
 - **[2026–now] 🎓** be pursuing M.S degree in **Electronic Information**， **University of Science and Technology of China (USTC 985)**
 ## 🏅 Selected Honors
 - 🌟 **Outstanding Graduate of Huazhong Agricultural University(华中农业大学优秀毕业生)**
+- 🌟 **Innovation Award for Undergraduate Graduation Thesis(华中农业大学本科毕业论文创新奖，华中农业大学本科毕业优秀论文)**
 ## 🌱 Services
 - ☁️ Long-term volunteer for **“Together Cloud Teaching”**
 - 🌊 Volunteer in **Henan Flood Relief**
