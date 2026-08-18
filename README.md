@@ -10,6 +10,7 @@ Please check my website for more details.https://duanqichao888.github.io/qcduan.
 - 🌟 **Outstanding Graduate of Huazhong Agricultural University(华中农业大学优秀毕业生)**
 - 🌟 **Innovation Award for Undergraduate Graduation Thesis(华中农业大学本科毕业论文创新奖，华中农业大学本科毕业优秀论文)**
 ## 🌱 Services
+- 周口市青年推介官
 - ☁️ Long-term volunteer for **“Together Cloud Teaching”**
 - 🌊 Volunteer in **Henan Flood Relief**
 - 🚑 Volunteer of **Henan Blue Sky Rescue Team**
